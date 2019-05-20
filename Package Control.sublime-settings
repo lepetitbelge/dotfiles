@@ -8,15 +8,27 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Color Highlight",
 		"Emmet",
 		"Emmet Style Reflector",
 		"ERB Snippets",
+		"ESLint",
+		"FileIcons",
 		"Git",
 		"GitGutter",
+		"GitOpenChangedFiles",
+		"HTMLBeautify",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-rubocop",
+		"View In Browser"
 	]
 }

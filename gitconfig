@@ -48,4 +48,9 @@
   mergeoptions = --no-edit
 [user]
 	email = chris.tim.gillis@gmail.com
-	name = christophegillis
+	name = christophe gillis
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
